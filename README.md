@@ -3,6 +3,10 @@
 
 This is the code for the Talk "Beyond Chatbots: Financial Innovation with Agentic LLMs". This repo draws inspiration from the paper [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155) by Wu et al., and from the [examples from LangGraph](https://github.com/langchain-ai/langgraph/tree/main/examples/multi_agent). 
 
+# Language Agent Tree Search
+
+[Language Agent Tree Search](https://arxiv.org/abs/2310.04406) (LATS), by Zhou, et. al, is a general LLM agent search algorithm that combines reflection/evaluation and search (specifically monte-carlo trees search) to get achieve better overall task performance compared to similar techniques like ReACT, Reflexion, or Tree of Thoughts:
+
 ![LATS.jpg](resources%2FLATS.jpg)
 
 You will find two notebooks which you can directly open in Google Colab:
