@@ -3,12 +3,12 @@
 
 This is the code for the Talk "Beyond Chatbots: Financial Innovation with Agentic LLMs". This repo draws inspiration from the paper [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155) by Wu et al., and from the [examples from LangGraph](https://github.com/langchain-ai/langgraph/tree/main/examples/multi_agent). 
 
-![LATS.jpeg](resources%2FLATS.jpeg)
+![LATS.jpg](resources%2FLATS.jpg)
 
 You will find two notebooks which you can directly open in Google Colab:
 
 - 1. `LATS.ipynb`: This is the notebook shown during the talk for creating LATS. 
-- 2. `!LangGraph_multi_agents_investment_analysis.ipynb`: This is the notebook to create a multi-agent with LangGraph. 
+- 2. `LangGraph_multi_agents_investment_analysis.ipynb`: This is the notebook to create a multi-agent with LangGraph. 
 
 For this, you will use the following tools:
 
