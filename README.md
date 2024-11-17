@@ -14,7 +14,7 @@ You will find two notebooks which you can directly open in Google Colab:
 - 1. `LATS.ipynb`: This is the notebook shown during the talk for creating LATS. 
 - 2. `LangGraph_multi_agents_investment_analysis.ipynb`: This is the notebook to create a multi-agent with LangGraph. 
 
-Multi-Agent Investment Analysis
+# Multi-Agent Investment Analysis
 
 For the multi-agents, you will use the following tools:
 
